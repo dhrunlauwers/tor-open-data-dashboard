@@ -1,0 +1,8 @@
+# IPython notebook files
+.ipynb_checkpoints/
+
+# MAC system files
+.DS_Store
+
+# csv files
+data/
